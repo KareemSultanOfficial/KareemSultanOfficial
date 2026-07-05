@@ -13,9 +13,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem--sultan)
 [![Website](https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kareemsultan.dev)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.amr1910@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kareem-kio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KareemSultanOfficial)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kareem-kio&color=6366f1&style=flat-square&label=Profile+Views&base=1372)
+![Profile Views](https://komarev.com/ghpvc/?username=KareemSultanOfficial&color=6366f1&style=flat-square&label=Profile+Views&base=1372)
 
 </div>
 
@@ -114,8 +114,6 @@ superpower: "Turning complex systems into clean, scalable code"
 
 <div align="left">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kareem-kio&theme=dark_lover&no-frame=true&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 |  | Achievement |
@@ -166,7 +164,7 @@ superpower: "Turning complex systems into clean, scalable code"
 <tr>
 <td width="50%">
 
-### 🧑‍💻 [Hirely](https://github.com/kareem-kio/Hirely) — Live Job Board
+### 🧑‍💻 [Hirely](https://github.com/KareemSultanOfficial/Hirely) — Live Job Board
 > Node.js · Express · PostgreSQL · React · JWT
 
 - ✅ 15+ RESTful API endpoints
@@ -178,7 +176,7 @@ superpower: "Turning complex systems into clean, scalable code"
 </td>
 <td width="50%">
 
-### 🎓 [StudyOS](https://github.com/kareem-kio) — Student OS *(In Progress)*
+### 🎓 [StudyOS](https://github.com/KareemSultanOfficial) — Student OS *(In Progress)*
 > Node.js · Express · MongoDB · Modular Architecture
 
 - 🔨 Centralized academic + task management platform
@@ -191,7 +189,7 @@ superpower: "Turning complex systems into clean, scalable code"
 <tr>
 <td width="50%">
 
-### 🤖 [Coachify](https://github.com/kareem-kio/Coachify) — AI Voice Assistant *(Live)*
+### 🤖 [Coachify](https://github.com/KareemSultanOfficial/Coachify) — AI Voice Assistant *(Live)*
 > React · TypeScript · Gemini 2.5 Flash API
 
 - ✅ Real-time AI voice coaching via Gemini audio streaming
@@ -202,7 +200,7 @@ superpower: "Turning complex systems into clean, scalable code"
 </td>
 <td width="50%">
 
-### ⚙️ [OS Project](https://github.com/kareem-kio) — Virtual OS Kernel
+### ⚙️ [OS Project](https://github.com/KareemSultanOfficial) — Virtual OS Kernel
 > C · x86 Assembly
 
 - ✅ Virtual memory + page-fault handling
@@ -241,13 +239,13 @@ superpower: "Turning complex systems into clean, scalable code"
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180" src="https://prof-delta-five.vercel.app/api?username=kareem-kio&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
-<img height="180" src="https://prof-delta-five.vercel.app/api/top-langs/?username=kareem-kio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://prof-delta-five.vercel.app/api?username=KareemSultanOfficial&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" />
+<img height="180" src="https://prof-delta-five.vercel.app/api/top-langs/?username=KareemSultanOfficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kareem-kio&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KareemSultanOfficial&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -270,8 +268,8 @@ const learning = {
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/kareem-kio/kareem-kio/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://github.com/kareem-kio/kareem-kio/blob/output/github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/KareemSultanOfficial/KareemSultanOfficial/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/KareemSultanOfficial/KareemSultanOfficial/blob/output/github-snake.svg#gh-light-mode-only)
 
 ---
 
@@ -297,7 +295,7 @@ const learning = {
 ### 💬 Let's build something great together
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kareem--sultan)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.amr1910@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KareemSultanOfficial@gmail.com)
 [![Resume](https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1fZCvIZd5vLyAo_IiyMwOBrSb39wzTM_f/view?usp=sharing)
 
 <br/>
